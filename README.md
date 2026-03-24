@@ -1,1 +1,0 @@
-# dynamic-quiz-app
