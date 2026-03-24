@@ -24,8 +24,7 @@ This project is a dynamic quiz game built with HTML, CSS, and vanilla JavaScript
     |-- index.html
     |-- styles.css
     |-- script.js
-    |-- /assets
-        |-- (images, icons etc.)
+
 ```
 
 ## How It Works
@@ -46,11 +45,3 @@ To start playing, simply refresh the browser or restart the game via the provide
 ## Performance Notes
 - The application performs efficiently with low latency due to reduced API calls and optimized code.
 - Minimal lag during user interaction.
-
-## Future Improvements
-- Add more question categories to choose from.
-- Implement a timer feature for added challenge.
-- Enhance accessibility further by including more ARIA roles and attributes.
-
-## Author
-**Omar Yasser** (omaryasser-github)
