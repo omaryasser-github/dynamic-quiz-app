@@ -10,12 +10,12 @@ export function getResultMessage(percentage) {
   return "Keep studying! You'll get better!";
 }
 
-// export function validateQuestion(question) {
-//   return (
-//     question &&
-//     typeof question.question === "string" &&
-//     Array.isArray(question.answers) &&
-//     question.answers.length === 4 &&
-//     question.answers.filter((a) => a.correct).length === 1
-//   );
-// }
+export function validateQuestion(question) {
+  return (
+    question &&
+    typeof question.question === "string" &&
+    Array.isArray(question.answers) &&
+    question.answers.length === 4 &&
+    question.answers.filter((a) => a.correct).length === 1
+  );
+}
