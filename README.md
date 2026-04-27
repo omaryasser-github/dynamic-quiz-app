@@ -1,8 +1,5 @@
 # Dynamic Quiz App
 
-## Project Title
-Dynamic Quiz Game
-
 ## Overview  
 This project is a dynamic quiz game built with HTML, CSS, and vanilla JavaScript. It fetches questions from the OpenTDB API, shuffles answers, includes score tracking, and features restart functionality. The project has been refactored from a static implementation to a modular architecture for better maintainability.
 
